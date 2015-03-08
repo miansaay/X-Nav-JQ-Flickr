@@ -1,0 +1,31 @@
+
+
+
+body {
+  background-color:rgba(0,255,127,0.4);
+}
+
+h1 {
+
+  color: green;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+
+}
+
+body img {
+  text-align: center;
+
+}
+
+body #button {
+  text-align: center;
+  margin-left: 460px;
+}
+
+ul {
+  text-align: center;
+}
